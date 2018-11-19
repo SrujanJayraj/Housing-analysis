@@ -16,5 +16,9 @@ scikit-learn
 
 You can directly open html format file. Tt was saved in html format also.
 
-![screenshot from 2018-11-19 11-42-02](https://user-images.githubusercontent.com/31390079/48689636-680b0b00-ebf1-11e8-85b6-7213361d31dd.png)
+
+
+![screenshot from 2018-11-19 11-42-02](https://user-images.githubusercontent.com/31390079/48691125-5f1d3800-ebf7-11e8-85e1-6c167b0d7148.jpg)
+
+
 
